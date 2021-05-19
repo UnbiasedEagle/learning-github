@@ -1,4 +1,4 @@
-Intro
+About Me
 My name is Saurabh Singh and I am 21.
 I am currently learning Git & Github.
 I am also learning DSA from Youtube.
